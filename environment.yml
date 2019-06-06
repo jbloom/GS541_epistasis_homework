@@ -83,7 +83,7 @@ dependencies:
   - pygments=2.4.2
   - pyparsing=2.4.0
   - pyqt=5.9.2
-  - pyrosetta=2018.51.*
+  - pyrosetta
   - pyrsistent=0.15.2
   - python=3.7.3
   - python-blosc=1.8.1
